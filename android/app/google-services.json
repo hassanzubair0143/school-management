@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99716757365",
+    "project_id": "schoolmanagement-95b7a",
+    "storage_bucket": "schoolmanagement-95b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99716757365:android:6bc74186b739e63452c53c",
+        "android_client_info": {
+          "package_name": "com.example.myschoolmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjw5q7LEeXH0Z1XNe0ttbyHceVzVTXkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
